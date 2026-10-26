@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Faez 👋
+Data professional in Malaysia moving into data engineering. I build batch pipelines that land raw data, model it into clean, tested tables, and orchestrate the whole flow.
 
-<!--
-**faeznizam/faeznizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building: a medallion lakehouse on Malaysia's open PriceCatcher retail price data (PySpark + Delta Lake).
 
-Here are some ideas to get you started:
+Projects
+Project	What it shows	Stack
+Olist ELT pipeline	Star schema, SCD Type 2, test-gated layers, Airflow in Docker	Snowflake, dbt, Airflow, Docker
+Malaysia PriceCatcher lakehouse (in progress)	Bronze/silver/gold on open government data, idempotent loads, data quality rules	PySpark, Delta Lake, Python
+Toolbox
+Languages: Python, SQL Data: dbt, Snowflake, Apache Airflow, PySpark, Delta Lake, pandas Tooling: Docker, Git, GitHub, Linux (WSL2) BI: Power BI (DAX)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+LinkedIn · faeznizam@gmail.com
